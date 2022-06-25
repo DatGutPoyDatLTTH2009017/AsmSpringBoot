@@ -1,5 +1,6 @@
 package com.example.asmspringboot.entity;
 
+import com.example.asmspringboot.entity.enums.RoadStatus;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.*;
 
